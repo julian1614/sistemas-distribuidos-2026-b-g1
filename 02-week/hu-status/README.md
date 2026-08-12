@@ -5,7 +5,7 @@
 # Weekly Status - Week 02
 
 <!-- CONFIG-START - must match your profile repo (username/username) CONFIG -->
-- FULL_NAME:
+- FULL_NAME:Julian Alberto Trujillo Bonilla
 - GITHUB_USER:
 - TEAM:
 - SPRINT_GOAL:
