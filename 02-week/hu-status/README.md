@@ -5,8 +5,8 @@
 # Weekly Status - Week 02
 
 <!-- CONFIG-START - must match your profile repo (username/username) CONFIG -->
-- FULL_NAME:Julian Alberto Trujillo Bonilla
-- GITHUB_USER:julian1614
+- FULL_NAME: Julian Alberto Trujillo Bonilla
+- GITHUB_USER: julian1614
 <!-- CONFIG-END -->
 
 ## 1. User stories worked this week
